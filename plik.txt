@@ -6,4 +6,8 @@ Druga zmiana na gałęzi master
 =======
 Zmiana w gałęzi master i zmiana na gałęzi 001
 Pierwsza zmiana na gałęzi g002
+<<<<<<< master
 >>>>>>> ver 005 pierwsza zmiana na g002
+=======
+Druga zmiana na g002
+>>>>>>> ver 006 druga zmiana na g002
